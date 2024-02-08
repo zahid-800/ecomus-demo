@@ -155,7 +155,7 @@ a {
 
 /* slide */
 .slide_card {
-    background-image: url(/img/slide4-1.webp);
+    background-image: url(../img/slide4-1.webp);
     background-repeat: no-repeat;
     background-position: center;
     width: 100%;
@@ -203,7 +203,7 @@ a {
 }
 
 .slide_card_2 {
-    background-image: url(/img/slideshow-2.webp);
+    background-image: url(../img/slideshow-2.webp);
     background-repeat: no-repeat;
     background-position: center;
 
@@ -211,7 +211,7 @@ a {
 }
 
 .slide_card_3 {
-    background-image: url(/img/slideshow-03.webp);
+    background-image: url(../img/slideshow-03.webp);
     background-repeat: no-repeat;
     background-position: center;
 
